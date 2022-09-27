@@ -5,7 +5,7 @@ The app retrieves the following data from the API:
 name, icon, weather description, temperature, humidity, and Wind Speed. 
 The background images are retrieved from unsplash.
 
-
+# Demo: 
 <a href="https://manvendrarana.github.io/PictureWeather/">Live demo</a> :point_left: 
 
 # API: 
