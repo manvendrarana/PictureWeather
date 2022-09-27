@@ -1,3 +1,6 @@
+
+![image](https://user-images.githubusercontent.com/41167541/192623888-e90ba0bc-5487-4284-830c-7b30c97e8270.png)
+
 # PictureWeather 
 
 a  weather appplication that enables users to search for live weather data for the specific city they search for. The app will also display a random image pertaining to the given city name. Weather information is obtained from OpenWeatherMap API. 
@@ -16,4 +19,4 @@ The background images are retrieved from unsplash.
 https://unsplash.com/developers
 
 
-![image](https://user-images.githubusercontent.com/41167541/192623888-e90ba0bc-5487-4284-830c-7b30c97e8270.png)
+
