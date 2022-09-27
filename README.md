@@ -8,9 +8,9 @@ The background images are retrieved from unsplash.
 
 <a href="https://manvendrarana.github.io/PictureWeather/">Live demo</a> :point_left: 
 
-#API: 
+# API: 
 <p><a href="https://openweathermap.org/api">OpenWeatherMap API</a></p>
 
-#background images: 
+# Background Images: 
 
 https://unsplash.com/developers
