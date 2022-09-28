@@ -3,7 +3,7 @@
 
 # PictureWeather 
 
-a  weather appplication that enables users to search for live weather data for a city. The app will also display a random image pertaining to the given city name. Weather information is obtained from OpenWeatherMap API.
+A  weather appplication that enables users to search for live weather data for a city. The app will also display a random image pertaining to the given city name. Weather information is obtained from OpenWeatherMap API.
 The app retrieves the following data from OpenWeatherMap API:
 name, icon, weather description, temperature, humidity, and Wind Speed. 
 The background images are retrieved from unsplash.
