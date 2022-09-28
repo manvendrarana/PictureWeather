@@ -7,7 +7,7 @@ A  weather appplication that enables users to search for live weather data for a
 The app retrieves the following data from OpenWeatherMap API:
 name, icon, weather description, temperature, humidity, and Wind Speed. 
 The background images are retrieved from unsplash.
-Geolocation is implemented via opencagedata API
+Geocoding is implemented via opencagedata API
 
 # Demo: 
 <a href="https://manvendrarana.github.io/PictureWeather/">Live demo</a> :point_left: 
