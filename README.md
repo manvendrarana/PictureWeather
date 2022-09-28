@@ -11,6 +11,11 @@ The background images are retrieved from unsplash.
 # Demo: 
 <a href="https://manvendrarana.github.io/PictureWeather/">Live demo</a> :point_left: 
 
+# Installation
+Simply clone this repo or download via zip.
+Open the index.html file with any browser
+
+
 # API: 
 <p><a href="https://openweathermap.org/api">OpenWeatherMap API</a></p>
 
