@@ -13,7 +13,7 @@ Geocoding is implemented via opencagedata API
 <a href="https://manvendrarana.github.io/PictureWeather/">Live demo</a> :point_left: 
 
 # Installation
-Simply clone this repo or download via zip.
+Simply clone this repo or download via zip and
 Open the index.html file with any browser
 
 
